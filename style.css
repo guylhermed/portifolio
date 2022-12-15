@@ -690,3 +690,9 @@ img {
   color: var(--first-color);
   margin-right: --mb-0-25;
 }
+
+/*======= Ativar Modal ============*/
+.active-modal {
+  opacity: 1;
+  visibility: visible;
+}
