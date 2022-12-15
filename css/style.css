@@ -725,6 +725,7 @@ img {
   transform: translateX(0.25rem);
 }
 
+/*============================= SWIPER =============================*/
 .swiper-button-prev::after,
 .swiper-button-next::after {
   content: '';
@@ -743,7 +744,7 @@ img {
   right: -0.5rem;
 }
 
-.swiper-container-horizontal > .swiper-pagination-bullets {
+.swiper-horizontal > .swiper-pagination-bullets {
   bottom: -2.5rem;
 }
 
