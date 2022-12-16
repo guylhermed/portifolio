@@ -829,6 +829,7 @@ img {
 }
 
 .project__img {
+  margin-bottom: 3rem;
   width: 232px;
   justify-self: center;
 }
